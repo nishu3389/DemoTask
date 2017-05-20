@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Task App</string>
+
+    <string name="title_activity_main2">HOME</string>
+
+    <string name="video">VIDEOS</string>
+    <string name="IMAGES">IMAGES</string>
+    <string name="MILESTONE">MILESTONE</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="dummy_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+
+    <string name="dummy_title1">i\' m falling love wiith you","20 hours ago</string>
+    <string name="dummy_title2">baby ft. justin bieber.</string>
+    <string name="dummy_title3">chain smoker new album</string>
+    <string name="dummy_title4">Emptiness ft. justin tilekar</string>
+    <string name="dummy_title5">white horse ft. taylor swift</string>
+
+    <string name="dummy_time1">22 hours ago</string>
+    <string name="dummy_time2">24 hours ago</string>
+    <string name="dummy_time3">28 hours ago</string>
+    <string name="dummy_time4">30 hours ago</string>
+    <string name="dummy_time5">40 hours ago</string>
+
+    <string name="dummy_album1">chain smoker new album 2016</string>
+    <string name="dummy_album2">purpose new album 2016</string>
+    <string name="dummy_album3">In My Feelings (Goin\' Thru It) new album 2016</string>
+    <string name="dummy_album4">Where Have You Been All My Life? new album 2016</string>
+    <string name="dummy_album5">Nothing Shines Like Neon new album 2016</string>
+
+    <string name="dummy_artist1">ft. rihana and usher</string>
+    <string name="dummy_artist2">ft. justin bieber</string>
+    <string name="dummy_artist3">ft. Boosie Badazz</string>
+    <string name="dummy_artist4">ft. Villagers</string>
+    <string name="dummy_artist5">ft. Randy Rogers Band</string>
+
+
+
+
+</resources>
